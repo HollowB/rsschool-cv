@@ -11,8 +11,9 @@
 
 ### About me
 
-I'm student from Russia, who want to make impact in future of our WEB.
 
+
+I'm student from Russia, who want to make impact in future of our WEB.
 RSSchool is my personal garantee that i'm on the right way to become a professional developer.
 
 ### Skills  

@@ -1,16 +1,15 @@
 # Burlakov Aleksandr V.
 
 
-> [!IMPORTANT] **Contact Information** </br>
+> **Contact Information** </br>
 > **Contact number:** +7(964)594-33-22</br>
 > **Email:** hollow.being@yandex.ru</br>
-> **LinkedIn:**[HollowB](https://www.linkedin.com/in/hollowb/)
+> **LinkedIn:** [HollowB](https://www.linkedin.com/in/hollowb/)
 
 ### About me
 **Hi!** My name is Aleksandr or Alex, you can use what you prefer.</br>
 I'm a middle System Engineer, specialized on IDM Systems. </br>
 At now i'm learning frontend development to expand my hard skills, now i need it to work with web portal of One Identity IDM by Quest, but in future i want to change my specialization to fulltime Frontend development.
-
 
 
 ### Hard skills
@@ -57,4 +56,4 @@ I have basic programming skills wit languages, what used .NET framework, e.g. C#
 :white_check_mark:  **09.2019** <br/>
 
 ### English Language
-My English skills isn't good, but i improve it every day. I'm liked by people and i can lead them from an early age I was able to lead people easily.
+My English skills isn't good, but i improve it every day. 
